@@ -1,0 +1,62 @@
+body{
+  font-size: 30px;
+  background-color: grey;
+}
+#group1{
+  width: 100%;
+  background-color: black;
+
+}
+h3{
+  text-align: center;
+}
+input{
+  font-size: 20px;
+  height: 50px;
+  margin-left: 8%;
+  padding-top: 3px;
+  padding-bottom: -6px;
+  width:65%;
+}
+button{
+
+  background-color: grey;
+  border:none;
+  color:white;
+  padding:12px 32px;
+  text-align: center;
+  margin:10px;
+  font-size: 24px;
+  padding-bottom: 19px;
+  width:15%;
+
+}
+li{
+
+  background-color: white;
+  height:80px;
+  width:84.5%;
+  margin: 10px;
+  margin-left: 5%;
+  align-items: center;
+}
+.activity{
+
+padding:12px 32px;
+text-align: center;
+margin-top: :10px;
+font-size: 24px;
+padding-bottom: 19px;
+width:15%;
+
+
+
+}
+.newbutton{
+
+  float: right;
+}
+.editbutton{
+
+  float: right;
+}
