@@ -4,4 +4,5 @@ I made this project to keep track of the most important aims for my days.Terms a
 
 ##Front Page of the to-do list
 
-https://github.com/LUXATHEMASTER/TODOLIST/blob/master/img/Screen%20Shot%202019-02-03%20at%202.17.53%20AM.png
+<img width="1440" alt="screen shot 2019-02-03 at 2 17 53 am" src="https://user-images.githubusercontent.com/35416595/52174228-fefe5280-275e-11e9-92db-4290ffe31edd.png">
+
